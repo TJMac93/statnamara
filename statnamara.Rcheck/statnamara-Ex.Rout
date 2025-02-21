@@ -1,0 +1,44 @@
+
+R version 4.4.1 (2024-06-14) -- "Race for Your Life"
+Copyright (C) 2024 The R Foundation for Statistical Computing
+Platform: aarch64-apple-darwin20
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> pkgname <- "statnamara"
+> source(file.path(R.home("share"), "R", "examples-header.R"))
+> options(warn = 1)
+> library('statnamara')
+> 
+> base::assign(".oldSearch", base::search(), pos = 'CheckExEnv')
+> base::assign(".old_wd", base::getwd(), pos = 'CheckExEnv')
+> cleanEx()
+> nameEx("hello")
+> ### * hello
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: Test
+> ### Title: Statnamara
+> ### Aliases: Test2
+> 
+> ### ** Examples
+> 
+> ggplot2::ggplot(mtcars)+
++   ggplot2::geom_point(aes(x = cyl, y = cyl))+
++     theme_statnamara()
+Error in aes(x = cyl, y = cyl) : could not find function "aes"
+Calls: <Anonymous> -> layer
+Execution halted

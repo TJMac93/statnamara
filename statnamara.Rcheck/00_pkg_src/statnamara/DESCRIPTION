@@ -1,0 +1,11 @@
+Package: statnamara
+Type: Package
+Title: Custom ggplot2 theming for statnamara
+Version: 0.1.0
+Author: Tom MacNamara
+Maintainer: Tom MacNamara <statnamara@gmail.com>
+Description: Custom theming for ggplot2
+License: Open
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2025-02-21 16:50:59 UTC; mcnamarat

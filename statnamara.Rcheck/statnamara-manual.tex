@@ -1,0 +1,49 @@
+\nonstopmode{}
+\documentclass[a4paper]{book}
+\usepackage[times,inconsolata,hyper]{Rd}
+\usepackage{makeidx}
+\makeatletter\@ifl@t@r\fmtversion{2018/04/01}{}{\usepackage[utf8]{inputenc}}\makeatother
+% \usepackage{graphicx} % @USE GRAPHICX@
+\makeindex{}
+\begin{document}
+\chapter*{}
+\begin{center}
+{\textbf{\huge Package `statnamara'}}
+\par\bigskip{\large \today}
+\end{center}
+\ifthenelse{\boolean{Rd@use@hyper}}{\hypersetup{pdftitle = {statnamara: Custom ggplot2 theming for statnamara}}}{}
+\begin{description}
+\raggedright{}
+\item[Type]\AsIs{Package}
+\item[Title]\AsIs{Custom ggplot2 theming for statnamara}
+\item[Version]\AsIs{0.1.0}
+\item[Author]\AsIs{Tom MacNamara}
+\item[Maintainer]\AsIs{Tom MacNamara }\email{statnamara@gmail.com}\AsIs{}
+\item[Description]\AsIs{Custom theming for ggplot2}
+\item[License]\AsIs{Open}
+\item[Encoding]\AsIs{UTF-8}
+\item[NeedsCompilation]\AsIs{no}
+\end{description}
+\Rdcontents{Contents}
+\HeaderA{Test}{Statnamara}{Test}
+\aliasA{Test2}{Test}{Test2}
+%
+\begin{Description}
+"This is the package" 
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+"Test"
+\end{verbatim}
+\end{Usage}
+%
+\begin{Examples}
+\begin{ExampleCode}
+ggplot2::ggplot(mtcars)+
+  ggplot2::geom_point(aes(x = cyl, y = cyl))+
+    theme_statnamara()
+\end{ExampleCode}
+\end{Examples}
+\printindex{}
+\end{document}

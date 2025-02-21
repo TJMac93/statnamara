@@ -1,0 +1,115 @@
+* using log directory ‘/Users/mcnamarat/Documents/Personal/projects/custom ggplot/statnamara.Rcheck’
+* using R version 4.4.1 (2024-06-14)
+* using platform: aarch64-apple-darwin20
+* R was compiled by
+    Apple clang version 14.0.0 (clang-1400.0.29.202)
+    GNU Fortran (GCC) 12.2.0
+* running under: macOS 15.0
+* using session charset: UTF-8
+* checking for file ‘statnamara/DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘statnamara’ version ‘0.1.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘statnamara’ can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Malformed Description field: should contain one or more complete sentences.
+Non-standard license specification:
+  Open
+Standardizable: FALSE
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... WARNING
+'::' or ':::' imports not declared from:
+  ‘cowplot’ ‘ggplot2’
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... NOTE
+statnamara_colours: missing arguments not allowed in calls to ‘c’
+theme_statnamara: no visible global function definition for
+  ‘element_text’
+theme_statnamara: no visible global function definition for
+  ‘element_rect’
+theme_statnamara: no visible global function definition for
+  ‘element_line’
+theme_statnamara: no visible global function definition for ‘unit’
+theme_statnamara_quarto: no visible global function definition for
+  ‘element_text’
+theme_statnamara_quarto: no visible global function definition for
+  ‘element_rect’
+theme_statnamara_quarto: no visible global function definition for
+  ‘element_line’
+theme_statnamara_quarto: no visible global function definition for
+  ‘unit’
+Undefined global functions or variables:
+  element_line element_rect element_text unit
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... WARNING
+Undocumented code objects:
+  ‘palette_generation’ ‘scale_colour_statnamara’
+  ‘scale_fill_statnamara’ ‘statnamara_colours’ ‘statnamara_palette’
+  ‘theme_statnamara’ ‘theme_statnamara_quarto’
+All user-level objects in a package should have documentation entries.
+See chapter ‘Writing R documentation files’ in the ‘Writing R
+Extensions’ manual.
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... WARNING
+'::' or ':::' import not declared from: ‘ggplot2’
+* checking examples ... ERROR
+Running examples in ‘statnamara-Ex.R’ failed
+The error most likely occurred in:
+
+> ### Name: Test
+> ### Title: Statnamara
+> ### Aliases: Test2
+> 
+> ### ** Examples
+> 
+> ggplot2::ggplot(mtcars)+
++   ggplot2::geom_point(aes(x = cyl, y = cyl))+
++     theme_statnamara()
+Error in aes(x = cyl, y = cyl) : could not find function "aes"
+Calls: <Anonymous> -> layer
+Execution halted
+* checking PDF version of manual ... WARNING
+LaTeX errors when creating PDF version.
+This typically indicates Rd problems.
+LaTeX errors found:
+! LaTeX Error: File `inconsolata.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+! Emergency stop.
+<read *> 
+         
+l.326 ^^M
+         
+!  ==> Fatal error occurred, no output PDF file produced!
+* checking PDF version of manual without index ... ERROR
+* DONE
+Status: 2 ERRORs, 4 WARNINGs, 2 NOTEs

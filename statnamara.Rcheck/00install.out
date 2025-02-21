@@ -1,0 +1,301 @@
+* installing *source* package ‘statnamara’ ...
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+.Keyboard already registered with pdfFont().
+.New York already registered with pdfFont().
+.SF Arabic already registered with pdfFont().
+.SF Arabic Rounded already registered with pdfFont().
+.SF Compact already registered with pdfFont().
+.SF Compact Rounded already registered with pdfFont().
+.SF NS Mono already registered with pdfFont().
+.SF NS Rounded already registered with pdfFont().
+Academy Engraved LET already registered with pdfFont().
+Andale Mono already registered with pdfFont().
+More than one version of regular/bold/italic found for Apple Braille. Skipping setup for this font.
+AppleMyungjo already registered with pdfFont().
+Arial already registered with pdfFont().
+Arial Black already registered with pdfFont().
+Arial Narrow already registered with pdfFont().
+Arial Rounded MT Bold already registered with pdfFont().
+Arial Unicode MS already registered with pdfFont().
+Bodoni 72 Smallcaps already registered with pdfFont().
+Bodoni Ornaments already registered with pdfFont().
+No regular (non-bold, non-italic) version of Brush Script MT. Skipping setup for this font.
+Comic Sans MS already registered with pdfFont().
+Courier New already registered with pdfFont().
+No regular (non-bold, non-italic) version of DIN Alternate. Skipping setup for this font.
+No regular (non-bold, non-italic) version of DIN Condensed. Skipping setup for this font.
+Georgia already registered with pdfFont().
+Impact already registered with pdfFont().
+Khmer Sangam MN already registered with pdfFont().
+Lao Sangam MN already registered with pdfFont().
+Luminari already registered with pdfFont().
+Microsoft Sans Serif already registered with pdfFont().
+Noto Sans Adlam already registered with pdfFont().
+Noto Sans Avestan already registered with pdfFont().
+Noto Sans Bamum already registered with pdfFont().
+Noto Sans Bassa Vah already registered with pdfFont().
+Noto Sans Batak already registered with pdfFont().
+Noto Sans Bhaiksuki already registered with pdfFont().
+Noto Sans Brahmi already registered with pdfFont().
+Noto Sans Buginese already registered with pdfFont().
+Noto Sans Buhid already registered with pdfFont().
+Noto Sans Carian already registered with pdfFont().
+Noto Sans CaucAlban already registered with pdfFont().
+Noto Sans Chakma already registered with pdfFont().
+Noto Sans Cham already registered with pdfFont().
+Noto Sans Coptic already registered with pdfFont().
+Noto Sans Cuneiform already registered with pdfFont().
+Noto Sans Cypriot already registered with pdfFont().
+Noto Sans Duployan already registered with pdfFont().
+Noto Sans EgyptHiero already registered with pdfFont().
+Noto Sans Elbasan already registered with pdfFont().
+Noto Sans Glagolitic already registered with pdfFont().
+Noto Sans Gothic already registered with pdfFont().
+Noto Sans HanifiRohg already registered with pdfFont().
+Noto Sans Hanunoo already registered with pdfFont().
+Noto Sans Hatran already registered with pdfFont().
+Noto Sans ImpAramaic already registered with pdfFont().
+Noto Sans InsPahlavi already registered with pdfFont().
+Noto Sans InsParthi already registered with pdfFont().
+Noto Sans Kaithi already registered with pdfFont().
+Noto Sans Kayah Li already registered with pdfFont().
+Noto Sans Kharoshthi already registered with pdfFont().
+Noto Sans Khojki already registered with pdfFont().
+Noto Sans Khudawadi already registered with pdfFont().
+Noto Sans Lepcha already registered with pdfFont().
+Noto Sans Limbu already registered with pdfFont().
+Noto Sans Linear A already registered with pdfFont().
+Noto Sans Linear B already registered with pdfFont().
+Noto Sans Lisu already registered with pdfFont().
+Noto Sans Lycian already registered with pdfFont().
+Noto Sans Lydian already registered with pdfFont().
+Noto Sans Mahajani already registered with pdfFont().
+Noto Sans Mandaic already registered with pdfFont().
+Noto Sans Manichaean already registered with pdfFont().
+Noto Sans Marchen already registered with pdfFont().
+Noto Sans MeeteiMayek already registered with pdfFont().
+Noto Sans Mende Kikakui already registered with pdfFont().
+Noto Sans Meroitic already registered with pdfFont().
+Noto Sans Miao already registered with pdfFont().
+Noto Sans Modi already registered with pdfFont().
+Noto Sans Mongolian already registered with pdfFont().
+Noto Sans Mro already registered with pdfFont().
+Noto Sans Multani already registered with pdfFont().
+Noto Sans NKo already registered with pdfFont().
+Noto Sans Nabataean already registered with pdfFont().
+Noto Sans NewTaiLue already registered with pdfFont().
+Noto Sans Newa already registered with pdfFont().
+Noto Sans Ol Chiki already registered with pdfFont().
+No regular (non-bold, non-italic) version of Noto Sans Old Italic. Skipping setup for this font.
+Noto Sans Old Permic already registered with pdfFont().
+Noto Sans Old Turkic already registered with pdfFont().
+Noto Sans OldHung already registered with pdfFont().
+Noto Sans OldNorArab already registered with pdfFont().
+Noto Sans OldPersian already registered with pdfFont().
+Noto Sans OldSouArab already registered with pdfFont().
+Noto Sans Osage already registered with pdfFont().
+Noto Sans Osmanya already registered with pdfFont().
+Noto Sans Pahawh Hmong already registered with pdfFont().
+Noto Sans Palmyrene already registered with pdfFont().
+Noto Sans PauCinHau already registered with pdfFont().
+Noto Sans PhagsPa already registered with pdfFont().
+Noto Sans Phoenician already registered with pdfFont().
+Noto Sans PsaPahlavi already registered with pdfFont().
+Noto Sans Rejang already registered with pdfFont().
+Noto Sans Samaritan already registered with pdfFont().
+Noto Sans Saurashtra already registered with pdfFont().
+Noto Sans Sharada already registered with pdfFont().
+Noto Sans Siddham already registered with pdfFont().
+Noto Sans SoraSomp already registered with pdfFont().
+Noto Sans Sundanese already registered with pdfFont().
+Noto Sans Syloti Nagri already registered with pdfFont().
+Noto Sans Syriac already registered with pdfFont().
+Noto Sans Tagalog already registered with pdfFont().
+Noto Sans Tagbanwa already registered with pdfFont().
+Noto Sans Tai Le already registered with pdfFont().
+Noto Sans Tai Tham already registered with pdfFont().
+Noto Sans Tai Viet already registered with pdfFont().
+Noto Sans Takri already registered with pdfFont().
+Noto Sans Thaana already registered with pdfFont().
+Noto Sans Tifinagh already registered with pdfFont().
+Noto Sans Tirhuta already registered with pdfFont().
+Noto Sans Ugaritic already registered with pdfFont().
+Noto Sans Vai already registered with pdfFont().
+Noto Sans Wancho already registered with pdfFont().
+Noto Sans WarangCiti already registered with pdfFont().
+Noto Sans Yi already registered with pdfFont().
+Noto Serif Ahom already registered with pdfFont().
+Noto Serif Balinese already registered with pdfFont().
+Noto Serif Hmong Nyiakeng already registered with pdfFont().
+Party LET already registered with pdfFont().
+Roboto already registered with pdfFont().
+Roboto Black already registered with pdfFont().
+Roboto Light already registered with pdfFont().
+Roboto Medium already registered with pdfFont().
+Roboto Thin already registered with pdfFont().
+STIX Two Text already registered with pdfFont().
+System Font already registered with pdfFont().
+Tahoma already registered with pdfFont().
+Times New Roman already registered with pdfFont().
+Trattatello already registered with pdfFont().
+Trebuchet MS already registered with pdfFont().
+Ubuntu Mono already registered with pdfFont().
+Verdana already registered with pdfFont().
+Webdings already registered with pdfFont().
+Wingdings already registered with pdfFont().
+Wingdings 2 already registered with pdfFont().
+Wingdings 3 already registered with pdfFont().
+.Keyboard already registered with postscriptFont().
+.New York already registered with postscriptFont().
+.SF Arabic already registered with postscriptFont().
+.SF Arabic Rounded already registered with postscriptFont().
+.SF Compact already registered with postscriptFont().
+.SF Compact Rounded already registered with postscriptFont().
+.SF NS Mono already registered with postscriptFont().
+.SF NS Rounded already registered with postscriptFont().
+Academy Engraved LET already registered with postscriptFont().
+Andale Mono already registered with postscriptFont().
+More than one version of regular/bold/italic found for Apple Braille. Skipping setup for this font.
+AppleMyungjo already registered with postscriptFont().
+Arial already registered with postscriptFont().
+Arial Black already registered with postscriptFont().
+Arial Narrow already registered with postscriptFont().
+Arial Rounded MT Bold already registered with postscriptFont().
+Arial Unicode MS already registered with postscriptFont().
+Bodoni 72 Smallcaps already registered with postscriptFont().
+Bodoni Ornaments already registered with postscriptFont().
+No regular (non-bold, non-italic) version of Brush Script MT. Skipping setup for this font.
+Comic Sans MS already registered with postscriptFont().
+Courier New already registered with postscriptFont().
+No regular (non-bold, non-italic) version of DIN Alternate. Skipping setup for this font.
+No regular (non-bold, non-italic) version of DIN Condensed. Skipping setup for this font.
+Georgia already registered with postscriptFont().
+Impact already registered with postscriptFont().
+Khmer Sangam MN already registered with postscriptFont().
+Lao Sangam MN already registered with postscriptFont().
+Luminari already registered with postscriptFont().
+Microsoft Sans Serif already registered with postscriptFont().
+Noto Sans Adlam already registered with postscriptFont().
+Noto Sans Avestan already registered with postscriptFont().
+Noto Sans Bamum already registered with postscriptFont().
+Noto Sans Bassa Vah already registered with postscriptFont().
+Noto Sans Batak already registered with postscriptFont().
+Noto Sans Bhaiksuki already registered with postscriptFont().
+Noto Sans Brahmi already registered with postscriptFont().
+Noto Sans Buginese already registered with postscriptFont().
+Noto Sans Buhid already registered with postscriptFont().
+Noto Sans Carian already registered with postscriptFont().
+Noto Sans CaucAlban already registered with postscriptFont().
+Noto Sans Chakma already registered with postscriptFont().
+Noto Sans Cham already registered with postscriptFont().
+Noto Sans Coptic already registered with postscriptFont().
+Noto Sans Cuneiform already registered with postscriptFont().
+Noto Sans Cypriot already registered with postscriptFont().
+Noto Sans Duployan already registered with postscriptFont().
+Noto Sans EgyptHiero already registered with postscriptFont().
+Noto Sans Elbasan already registered with postscriptFont().
+Noto Sans Glagolitic already registered with postscriptFont().
+Noto Sans Gothic already registered with postscriptFont().
+Noto Sans HanifiRohg already registered with postscriptFont().
+Noto Sans Hanunoo already registered with postscriptFont().
+Noto Sans Hatran already registered with postscriptFont().
+Noto Sans ImpAramaic already registered with postscriptFont().
+Noto Sans InsPahlavi already registered with postscriptFont().
+Noto Sans InsParthi already registered with postscriptFont().
+Noto Sans Kaithi already registered with postscriptFont().
+Noto Sans Kayah Li already registered with postscriptFont().
+Noto Sans Kharoshthi already registered with postscriptFont().
+Noto Sans Khojki already registered with postscriptFont().
+Noto Sans Khudawadi already registered with postscriptFont().
+Noto Sans Lepcha already registered with postscriptFont().
+Noto Sans Limbu already registered with postscriptFont().
+Noto Sans Linear A already registered with postscriptFont().
+Noto Sans Linear B already registered with postscriptFont().
+Noto Sans Lisu already registered with postscriptFont().
+Noto Sans Lycian already registered with postscriptFont().
+Noto Sans Lydian already registered with postscriptFont().
+Noto Sans Mahajani already registered with postscriptFont().
+Noto Sans Mandaic already registered with postscriptFont().
+Noto Sans Manichaean already registered with postscriptFont().
+Noto Sans Marchen already registered with postscriptFont().
+Noto Sans MeeteiMayek already registered with postscriptFont().
+Noto Sans Mende Kikakui already registered with postscriptFont().
+Noto Sans Meroitic already registered with postscriptFont().
+Noto Sans Miao already registered with postscriptFont().
+Noto Sans Modi already registered with postscriptFont().
+Noto Sans Mongolian already registered with postscriptFont().
+Noto Sans Mro already registered with postscriptFont().
+Noto Sans Multani already registered with postscriptFont().
+Noto Sans NKo already registered with postscriptFont().
+Noto Sans Nabataean already registered with postscriptFont().
+Noto Sans NewTaiLue already registered with postscriptFont().
+Noto Sans Newa already registered with postscriptFont().
+Noto Sans Ol Chiki already registered with postscriptFont().
+No regular (non-bold, non-italic) version of Noto Sans Old Italic. Skipping setup for this font.
+Noto Sans Old Permic already registered with postscriptFont().
+Noto Sans Old Turkic already registered with postscriptFont().
+Noto Sans OldHung already registered with postscriptFont().
+Noto Sans OldNorArab already registered with postscriptFont().
+Noto Sans OldPersian already registered with postscriptFont().
+Noto Sans OldSouArab already registered with postscriptFont().
+Noto Sans Osage already registered with postscriptFont().
+Noto Sans Osmanya already registered with postscriptFont().
+Noto Sans Pahawh Hmong already registered with postscriptFont().
+Noto Sans Palmyrene already registered with postscriptFont().
+Noto Sans PauCinHau already registered with postscriptFont().
+Noto Sans PhagsPa already registered with postscriptFont().
+Noto Sans Phoenician already registered with postscriptFont().
+Noto Sans PsaPahlavi already registered with postscriptFont().
+Noto Sans Rejang already registered with postscriptFont().
+Noto Sans Samaritan already registered with postscriptFont().
+Noto Sans Saurashtra already registered with postscriptFont().
+Noto Sans Sharada already registered with postscriptFont().
+Noto Sans Siddham already registered with postscriptFont().
+Noto Sans SoraSomp already registered with postscriptFont().
+Noto Sans Sundanese already registered with postscriptFont().
+Noto Sans Syloti Nagri already registered with postscriptFont().
+Noto Sans Syriac already registered with postscriptFont().
+Noto Sans Tagalog already registered with postscriptFont().
+Noto Sans Tagbanwa already registered with postscriptFont().
+Noto Sans Tai Le already registered with postscriptFont().
+Noto Sans Tai Tham already registered with postscriptFont().
+Noto Sans Tai Viet already registered with postscriptFont().
+Noto Sans Takri already registered with postscriptFont().
+Noto Sans Thaana already registered with postscriptFont().
+Noto Sans Tifinagh already registered with postscriptFont().
+Noto Sans Tirhuta already registered with postscriptFont().
+Noto Sans Ugaritic already registered with postscriptFont().
+Noto Sans Vai already registered with postscriptFont().
+Noto Sans Wancho already registered with postscriptFont().
+Noto Sans WarangCiti already registered with postscriptFont().
+Noto Sans Yi already registered with postscriptFont().
+Noto Serif Ahom already registered with postscriptFont().
+Noto Serif Balinese already registered with postscriptFont().
+Noto Serif Hmong Nyiakeng already registered with postscriptFont().
+Party LET already registered with postscriptFont().
+Roboto already registered with postscriptFont().
+Roboto Black already registered with postscriptFont().
+Roboto Light already registered with postscriptFont().
+Roboto Medium already registered with postscriptFont().
+Roboto Thin already registered with postscriptFont().
+STIX Two Text already registered with postscriptFont().
+System Font already registered with postscriptFont().
+Tahoma already registered with postscriptFont().
+Times New Roman already registered with postscriptFont().
+Trattatello already registered with postscriptFont().
+Trebuchet MS already registered with postscriptFont().
+Ubuntu Mono already registered with postscriptFont().
+Verdana already registered with postscriptFont().
+Webdings already registered with postscriptFont().
+Wingdings already registered with postscriptFont().
+Wingdings 2 already registered with postscriptFont().
+Wingdings 3 already registered with postscriptFont().
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (statnamara)
